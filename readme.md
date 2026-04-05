@@ -1,2 +1,2 @@
 # This is a complete git course
-this is updated in bug
+This is updated in main branch
