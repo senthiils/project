@@ -1,4 +1,2 @@
 # This is a complete git course
-Line2
-Line3
-newline
+This is created in the feature branch
